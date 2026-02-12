@@ -62,5 +62,95 @@
       }
     },
     "timestamp": 1676393658
+  },
+  "Minitest": {
+    "coverage": {
+      "/home/bened/67272/In-Class/University/app/models/department.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/bened/67272/In-Class/University/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/bened/67272/In-Class/University/app/models/assignment.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/home/bened/67272/In-Class/University/app/models/course.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/home/bened/67272/In-Class/University/app/models/faculty.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          0
+        ],
+        "branches": {}
+      }
+    },
+    "timestamp": 1770773845
   }
 }
